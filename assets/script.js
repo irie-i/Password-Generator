@@ -62,6 +62,7 @@ function generatePassword() {
     pwOptions = pwOptions.concat(charList);
   }
 
+  // Creating loop that passes through as mentioned in Password Length question allowing to generate a password with the selected critera)c
   var randomPw = "";
   for (var i = 0; i <= passLength; i++) {
    randomPw = randomPw + pwOptions[Math.floor(Math.random() * pwOptions.length)];
@@ -73,18 +74,3 @@ function generatePassword() {
 
  
 }
-
-
-
-
-
-// }
-
-
-  //
-
-
-
-
-
-// }
