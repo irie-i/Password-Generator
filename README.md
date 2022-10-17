@@ -30,31 +30,3 @@
 
 https://irie-i.github.io/Password-Generator/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## URL
